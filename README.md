@@ -1,5 +1,5 @@
 # Crash Course in Linear Algebra for Data Scientists
-v 0.0.1
+v 0.0.2
 
 ## Goals
 Provide a basic approach to Linear Algebra which is more thoroughly motivated for Data Scientists.
@@ -16,9 +16,9 @@ This will probably not be a standalone replacement for actually having a teacher
 ## Tentative Outline
 1.  Basic Operation
 2.  Vector Spaces
-3.  Linear Transformations
-4.  Invertible Matrix Theorem
-5.  Graph Representations
-6.  PCA and Regression
+3.  PCA and Regression
+4.  Linear Transformations
+5.  Invertible Matrix Theorem
+6.  Graph Representations
 
 ## Check out the ipython notebooks for the actual sections.
